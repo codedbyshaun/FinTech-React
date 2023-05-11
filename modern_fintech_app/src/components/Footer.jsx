@@ -32,7 +32,7 @@ const Footer = () => (
 
     <div className="w-full flex justify-between items-center md:flex-row flex-col pt-6 border-t-[1px] border-t-[3F3E45]">
       <p className="font-popppins font-normal text-center text-[19px] leading-[28px] text-white">
-        Copyright Ⓒ 2023 NewBank. All Rights Reserved.
+        Copyright Ⓒ 2023 PayFi. All Rights Reserved.
       </p>
       <div className="flex flex-row md:mt-0 mt-6">
         {socialMedia.map((social, index) => (
