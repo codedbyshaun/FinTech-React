@@ -7,8 +7,8 @@ const CardDeal = () => (
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>Find a better card deal
         <br className="sm:block hidden" /> in a few easy steps.</h2>
-      <p className={`${styles.paragraph} max-w-[480px] mt-5`}> Arcu tutor, purus in mattis at sed integer faucibus.
-        Aliquet quis aliquet eget mauris tortor.ç Aliquet ultrices ac, ametau.</p>
+      <p className={`${styles.paragraph} max-w-[480px] mt-5`}> PayFi has a card for everyone. Low-interest, 
+      high-cashback, flexible-credit. Compare and apply online. No hassle, no fees. Switch to PayFi and save.</p>
 
       <Button styles="mt-10" />
     </div>
