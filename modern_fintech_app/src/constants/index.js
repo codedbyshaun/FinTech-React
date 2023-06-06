@@ -25,21 +25,21 @@ export const features = [
     icon: star,
     title: "Rewards",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Get rewarded for using PayFi. Every time you transact with us, earn points on your PayFi card.",
   },
   {
     id: "feature-2",
     icon: shield,
     title: "100% Secured",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "Feel confident knowing your transactions are protected by industry-standard BTB security protocols.",
   },
   {
     id: "feature-3",
     icon: send,
     title: "Balance Transfer",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Effortlessly transfer your systems from your current provider, free of charge.",
   },
 ];
 
@@ -47,25 +47,25 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
-    name: "Jessica Jensen",
-    title: "Founder & Leader",
+      "PayFi has been a game-changer for my online store. I can accept payments from anywhere in the world, with low fees and fast transactions. And I love the rewards program!",
+    name: "Jessica",
+    title: "Boutique Owner",
     img: people01,
   },
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
-    name: "Steve Mark",
-    title: "Founder & Leader",
+      "PayFi has helped me manage my finances better. I can open a digital bank account in minutes, with no paperwork and no hidden charges. I can also access a variety of financial services, such as loans, investments, and savings.",
+    name: "Steven",
+    title: "Project Manager",
     img: people02,
   },
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
-    name: "Kenn Gallagher",
-    title: "Founder & Leader",
+      "New opportunities have opened up for me. I can connect to the web3 ecosystem and explore the decentralized economy. I can buy and sell cryptocurrencies, NFTs, DeFi products, and more. I think PayFi is the future of finance.",
+    name: "Megan",
+    title: "Metaverse artist",
     img: people03,
   },
 ];
@@ -73,17 +73,17 @@ export const feedback = [
 export const stats = [
   {
     id: "stats-1",
-    title: "User Active",
+    title: "Active Users",
     value: "3800+",
   },
   {
     id: "stats-2",
-    title: "Trusted by Company",
+    title: "Companies trust PayFi",
     value: "230+",
   },
   {
     id: "stats-3",
-    title: "Transaction",
+    title: "Transactions to date",
     value: "$230M+",
   },
 ];
@@ -140,10 +140,10 @@ export const footerLinks = [
     ],
   },
   {
-    title: "Partner",
+    title: "Partners",
     links: [
       {
-        name: "Our Partner",
+        name: "Our Partners",
         link: "https://www.hoobank.com/our-partner/",
       },
       {

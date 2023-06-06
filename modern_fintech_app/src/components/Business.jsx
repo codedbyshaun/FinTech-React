@@ -25,8 +25,10 @@ const Business = () => {
         <h2 className={styles.heading2}>
           You do the business, <br className="sm:block hidden" /> we'll take care of the transactions.
         </h2>
-        <p className={`${styles.paragraph} max-w-[470px] mt-5`}>With the right card to suit your needs, you can focus more on the things that matter to you.
-          By earning rewards while you save on fees, we'll match the most prominent option to your requirements.
+        <p className={`${styles.paragraph} max-w-[470px] mt-5`}>Whether you’re selling products, 
+        offering services, or accepting donations, PayFi makes it easy and affordable to process 
+        payments online - from any device, any location, and any 
+        currency. You can also integrate PayFi with your website, app, or blockchain system.
         </p>
 
         <Button styles="mt-10" />

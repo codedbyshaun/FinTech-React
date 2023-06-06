@@ -10,7 +10,7 @@ const Hero = () =>
         <img src={discount} alt="promotion" className="w-[32px] h-[32px]" />
         <p className={`${styles.paragraph} ml-2`}>
           <span className="text-white">20%</span> Discount for {" "}
-          <span className="text-white">1 Month</span> Account
+          <span className="text-white">the next 30 days</span> 
         </p>
       </div>
 
@@ -27,9 +27,8 @@ const Hero = () =>
 
       <h1 className="font-poppins font-semibold ss:text-[68px] text-[52px] text-white ss:leading-[100px]
         leading-[75px] w-full">Payment Method.</h1>
-      <p className={`${styles.paragraph} max-w-[470px] mt-5`}>Our team of experts uses a methodology of
-        experience to identify the credit cards most likely to fit your needs. We examine annual percentage
-        rates, fees, etc. to give you the most comprehensive experience tailored to your needs.</p>
+      <p className={`${styles.paragraph} max-w-[470px] mt-5`}>PayFi: The ultimate platform for payment processing, 
+      digital banking, and web3. Giving you the most comprehensive financial techonology experience tailored to your needs.</p>
     </div>
 
     <div className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 relative`}>
