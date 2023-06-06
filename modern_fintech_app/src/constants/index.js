@@ -65,6 +65,7 @@ export const feedback = [
     content:
       "New opportunities have opened up for me. I can connect to the web3 ecosystem and explore the decentralized economy. I can buy and sell cryptocurrencies, NFTs, DeFi products, and more. I think PayFi is the future of finance.",
     name: "Megan",
+    name: "Haven",
     title: "Metaverse artist",
     img: people03,
   },

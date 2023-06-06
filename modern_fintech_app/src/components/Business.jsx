@@ -29,6 +29,8 @@ const Business = () => {
         offering services, or accepting donations, PayFi makes it easy and affordable to process 
         payments online - from any device, any location, and any 
         currency. You can also integrate PayFi with your website, app, or blockchain system.
+        offering services, or accepting donations, PayFi makes it easy and affordable to process payments online - 
+        from any device, any location, and any currency. You can also integrate PayFi with your website, app, or blockchain system.
         </p>
 
         <Button styles="mt-10" />
